@@ -1,1 +1,0 @@
-# Install spacevim on Centos
