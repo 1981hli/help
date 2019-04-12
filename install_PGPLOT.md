@@ -1,4 +1,4 @@
-```bash
+```sh
 tar zxf pgplot5.2.tar.gz
 mkdir PGPLOT
 cp pgplot/drivers.list PGPLOT/
