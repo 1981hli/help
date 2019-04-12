@@ -3,8 +3,8 @@ sudo apt install xorg-dev
 
 tar zxf pgplot5.2.tar.gz
 mkdir PGPLOT
-cp pgplot/drivers.list PGPLOT/
 
+cp pgplot/drivers.list PGPLOT/
 vi PGPLOT/drivers.list
 # uncomment /GIF line
 
