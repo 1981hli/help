@@ -1,3 +1,4 @@
+```sh
 jupyter notebook --generate-config
 
 jupyter notebook password
@@ -6,3 +7,4 @@ jupyter notebook password
 c.NotebookApp.ip='*'
 c.NotebookApp.port =8888
 c.NotebookApp.allow_remote_access = True
+```
