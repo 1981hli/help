@@ -1,7 +1,9 @@
 ```sh
 sudo apt install xorg-dev
 
+wget ftp://ftp.astro.caltech.edu/pub/pgplot/pgplot5.2.tar.gz
 tar zxf pgplot5.2.tar.gz
+
 mkdir PGPLOT
 
 cp pgplot/drivers.list PGPLOT/
