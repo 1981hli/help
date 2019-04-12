@@ -1,4 +1,6 @@
 ```sh
+sudo apt install xorg-dev
+
 tar zxf pgplot5.2.tar.gz
 mkdir PGPLOT
 cp pgplot/drivers.list PGPLOT/
