@@ -22,6 +22,4 @@ vi makefile
 make
 make cpg
 make clean
-
-export PGPLOT_DIR="$HOME/soft/PGPLOT"
 ```
